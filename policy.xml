@@ -1,0 +1,7 @@
+<policy>
+    <package name="com.google.android.gms"/>
+    <package name="com.android.vending"/>
+    <package name="com.google.android.packageinstaller"/>
+    <package name="com.google.android.permissioncontroller"/>
+    <package name="com.google.android.carassistantr"/>
+</policy>
