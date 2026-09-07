@@ -3,5 +3,5 @@
     <package name="com.android.vending"/>
     <package name="com.google.android.packageinstaller"/>
     <package name="com.google.android.permissioncontroller"/>
-    <package name="com.google.android.carassistantr"/>
+    <package name="com.google.android.carassistant"/>
 </policy>
