@@ -4,4 +4,5 @@
     <package name="com.google.android.permissioncontroller"/>
     <package name="com.google.android.carassistant"/>
     <activity name="com.google.android.gms.core.tos.SettingsTosActivity"/>
+    <activity name="com.google.android.gms.app.auto.tos.AutoTermsPreferenceActivity"/>
 </policy>
