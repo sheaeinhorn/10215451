@@ -7,4 +7,6 @@
     <activity name="com.google.android.gms.app.auto.tos.AutoTermsPreferenceActivity"/>
     <activity name="com.ford.car.settings.common.FordSettingsActivities$FordProfileSwitcherActivity"/>
     <activity name="com.google.android.gms.app.auto.settings.GoogleSettingsActivity"/>
+    <keyword text="Reset options"/>
+    <keyword text="Profile settings"/>
 </policy>
