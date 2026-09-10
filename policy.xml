@@ -5,4 +5,5 @@
     <package name="com.google.android.carassistant"/>
     <activity name="com.google.android.gms.core.tos.SettingsTosActivity"/>
     <activity name="com.google.android.gms.app.auto.tos.AutoTermsPreferenceActivity"/>
+    <activity name="com.google.android.gms.app.auto.settings.GoogleSettingsActivity"/>
 </policy>
