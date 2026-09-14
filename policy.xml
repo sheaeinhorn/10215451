@@ -1,13 +1,13 @@
 <policy>
     <package name="com.android.vending"/>
     <package name="com.google.android.packageinstaller"/>
-    <package name="com.google.android.permissioncontroller"/>
     <package name="com.google.android.carassistant"/>
     <activity name="com.google.android.gms.core.tos.SettingsTosActivity"/>
     <activity name="com.google.android.gms.app.auto.tos.AutoTermsPreferenceActivity"/>
     <activity name="com.ford.car.settings.common.FordSettingsActivities$FordProfileSwitcherActivity"/>
     <activity name="com.android.car.settings.profiles.ProfileSwitcherActivity"/>
     <activity name="com.google.android.gms.app.auto.settings.GoogleSettingsActivity"/>
+    <activity name="com.android.permissioncontroller.role.ui.DefaultAppActivity"/>
     <keyword text="Reset options"/>
     <keyword text="Profile settings"/>
 </policy>
