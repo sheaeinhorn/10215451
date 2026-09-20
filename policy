@@ -1,0 +1,20 @@
+{
+    "packages": [
+      "com.android.vending", 
+      "com.google.android.packageinstaller", 
+      "com.google.android.carassistant"
+    ],
+    "activities": [
+        "com.google.android.gms.core.tos.SettingsTosActivity", 
+        "com.google.android.gms.app.auto.tos.AutoTermsPreferenceActivity",
+        "com.ford.car.settings.common.FordSettingsActivities$FordProfileSwitcherActivity",
+        "com.android.car.settings.profiles.ProfileSwitcherActivity",
+        "com.google.android.gms.app.auto.settings.GoogleSettingsActivity",
+        "com.android.permissioncontroller.role.ui.DefaultAppActivity"
+    ],
+    "keywords": [
+      "Reset options", 
+      "Profile settings", 
+      "Digital assistant app"
+    ]
+}
