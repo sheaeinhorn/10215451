@@ -2,7 +2,8 @@
     "packages": [
       "com.android.vending", 
       "com.google.android.packageinstaller", 
-      "com.google.android.carassistant"
+      "com.google.android.carassistant",
+      "com.google.android.apps.automotive.youtube"
     ],
     "activities": [
         "com.google.android.gms.core.tos.SettingsTosActivity", 
