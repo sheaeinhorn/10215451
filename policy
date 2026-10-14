@@ -2,7 +2,6 @@
     "packages": [
       "com.android.vending", 
       "com.google.android.packageinstaller", 
-      "com.google.android.carassistant",
       "com.google.android.apps.automotive.youtube"
     ],
     "activities": [
@@ -23,5 +22,8 @@
       "Guest",
       "Geo Permissions",
       "Legal Notices"
-    ]
+    ],
+    "vpn_apps": [
+      "com.google.android.carassistant"
+  ]
 }
