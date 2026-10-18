@@ -21,7 +21,8 @@
       "Key No.",
       "Guest",
       "Geo Permissions",
-      "Legal Notices"
+      "Legal Notices",
+      "Show all apps"
     ],
     "vpn_apps": [
       "com.google.android.carassistant"
