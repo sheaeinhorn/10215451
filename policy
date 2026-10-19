@@ -2,7 +2,8 @@
     "packages": [
       "com.android.vending", 
       "com.google.android.packageinstaller", 
-      "com.google.android.apps.automotive.youtube"
+      "com.google.android.apps.automotive.youtube",
+      "com.honda.ivi.alexa"
     ],
     "activities": [
         "com.google.android.gms.core.tos.SettingsTosActivity", 
@@ -13,18 +14,25 @@
         "com.android.permissioncontroller.role.ui.DefaultAppActivity"
     ],
     "keywords": [
-      "Recently opened",
       "Reset options", 
-      "Profile settings", 
-      "Digital assistant app",
       "Signed in as admin",
       "Key No.",
       "Guest",
       "Geo Permissions",
-      "Legal Notices",
-      "Show all apps"
+      "Legal Notices"
     ],
     "vpn_apps": [
-      "com.google.android.carassistant"
-  ]
+      "com.google.android.carassistant",
+      "com.android.vending",
+      "com.android.car.media",
+      "com.android.car.radio"
+  ],
+  "package_keywords": {
+    "com.android.car.settings": [
+      "Profile settings",
+      "Show all apps",
+      "Digital assistant app",
+      "Recently opened"
+    ]
+  }
 }
