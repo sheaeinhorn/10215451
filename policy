@@ -4,6 +4,9 @@
       "com.google.android.packageinstaller", 
       "com.google.android.apps.automotive.youtube",
       "com.honda.ivi.alexa"
+      "com.spotify.music",
+      "com.amazon.mp3.automotiveOS",
+      "com.apple.android.music"
     ],
     "activities": [
         "com.google.android.gms.core.tos.SettingsTosActivity", 
